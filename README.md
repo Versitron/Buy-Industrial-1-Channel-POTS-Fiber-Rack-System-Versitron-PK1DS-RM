@@ -46,6 +46,8 @@ This kit is an excellent choice when you need a long‑distance POTS over fiber 
 
 These specifications reflect the Versitron PK1DS‑RM’s performance expectations for industrial and enterprise POTS over fiber applications. 
 
+---
+
 ## What’s Included
 
 - FXO unit (telephone exchange side)  
